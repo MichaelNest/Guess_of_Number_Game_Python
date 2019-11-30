@@ -4,7 +4,6 @@ import random
 low_digit = 10
 high_digit = 50
 digit = 0
-
 count_input = 0
 x= ''
 play_game = True
@@ -33,6 +32,35 @@ while(play_game):
         play_game = False
     else:
         win = False
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
